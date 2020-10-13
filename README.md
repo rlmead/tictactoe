@@ -1,3 +1,6 @@
+# Tic Tac Toe, Round 2
+Tutorial project for Awesome Inc Bootcamp Week 4
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
